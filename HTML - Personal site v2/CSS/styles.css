@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+
+.name {
+    margin-top: 0px;
+}
+
+.top {
+    background-color: #7858A6;
+    height: 100px;
+}
+
+.middle {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
